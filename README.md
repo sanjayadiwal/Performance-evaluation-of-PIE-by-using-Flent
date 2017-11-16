@@ -2,9 +2,12 @@
 Performance evaluation of PIE by using Flexible Network  Tester (Flent)
 
 Network Topology (Refere topology diagram "Network-Topology.jpg") :
-1. Client IP eno1: 192.168.50.1/24
+Client IP eno1: 192.168.50.1/24
+
 Router IP eno1: 192.168.50.2/24
+
 Router IP enx0000000001220: 172.16.10.1/24
+
 Server IP: 172.16.10.2/24
 
 Client Control Channel IP enx000000001b40: 192.168.20.1/24
