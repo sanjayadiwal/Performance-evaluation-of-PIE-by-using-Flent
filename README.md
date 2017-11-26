@@ -31,7 +31,7 @@ B. Keeping Tudpate default and varying Target (5 ms, 10 ms, 15 ms, 20 ms)
 A. Keeping Target default and varying Tudpate( 1 ms, 15 ms, 30 ms, 60 ms)
 B. Keeping Tudpate default and varying Target (5 ms, 10 ms, 15 ms, 20 ms)
 
-### A detailed report is created showing observation of test conducted. ( Refer the PDF Document: GP#5Report.pdf)
+### A detailed report is created showing observation of test conducted. ( Refer the PDF Document: GP5Report.pdf)
 
 
 
